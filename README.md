@@ -1,5 +1,5 @@
 <h1> 👨‍💻 Device Details</h1>
-<h2> Program that shows some details of the device. </h2>
+<h2> Program that shows some device details. </h2>
 <h3>🧙‍♀️ Author: Rafaela Mendonça Estefogo</h3>
 <h3>📝 Language: Java</h3>
 <h3>🖥️ IDE: NetBeans</h3>
