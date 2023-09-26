@@ -8,6 +8,6 @@
 <h3>Description:</h3>
 <p>The program takes the language, the country and the current date and time of the device, and shows these informations in a simple interface when the user press the button indicated, as shown below:</p>
 <br>
-<img src="/blob/main/tela.png">
+<img src="tela.png">
 
 
