@@ -10,16 +10,22 @@
 <br>
 ![image](https://github.com/estefogo/Device-Details/assets/79616452/c543b995-0fed-4cdc-8ea9-3adb48f335aa)
 
-### Java
+# Cursos
+
+[Introdução à Gerenciamento de Projetos](https://www.notion.so/Introdu-o-Gerenciamento-de-Projetos-5920e3e29a02415699db5f53e6292b5c?pvs=21)
+
+### 🧓 Java
 
 https://loiane.training/curso/estrutura-de-dados
 
 [Java Básico](https://www.notion.so/Java-B-sico-2f282cff03f24a9b899f7e9bf37ce9f5?pvs=21)
 
-### JavaScript
+### 🎅 JavaScript
 
 https://www.youtube.com/watch?v=PkZNo7MFNFg
 
-### 7 Days of Code - Alura
+### 🕵️‍♀️ 7 Days of Code - Alura
+
+https://7daysofcode.io/
 
 https://7daysofcode.io/
